@@ -2,7 +2,7 @@
 
 A Python implementation of core **Ticket to Ride-style routing logic**, focused on graph modeling and shortest-path computation. Built a custom **adjacency list graph** and implemented **A\*** pathfinding using heuristics to compute optimal routes between cities.
 
-> Note: Completed as part of a coursework project. All code shown here was implemented by me and is included in my portfolio.
+> Note: Completed as part of a coursework project. The code shown here was implemented by me and is included in my portfolio.
 
 ---
 
